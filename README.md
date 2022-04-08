@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CursedHate
 - 👀 I’m interested in reading and coding
 - 🌱 I’m currently learning how hard life is
-- 💞️ I’m looking to collaborate on whateve stuff
+- 💞️ I’m looking to collaborate on whatever stuff
 - 📫 How to reach me, just don't reach me please
 
 <!---
